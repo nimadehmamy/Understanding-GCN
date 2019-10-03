@@ -2,7 +2,7 @@
 
 Code for paper titled [Understanding the Power of Graph Neural Networks in Learning Graph Topology](https://arxiv.org/abs/1907.05008)
 
-Code is written with PyTorch v0.4.1 (Python 3.6.5). 
+Code is written with Python 3.6.5. 
 
 ### Set up 
 
