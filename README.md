@@ -2,7 +2,14 @@
 
 Code for NeurIPS 2019 paper titled [Understanding the Power of Graph Neural Networks in Learning Graph Topology](https://arxiv.org/abs/1907.05008)
 
-Code is written with Python 3.6.5. 
+Code is written with Python 3.6.5.  
+
+### Poster, Slides and video
+
+The poster and slides can be found in ``doc/``.  
+
+The video can be found [here](https://www.youtube.com/watch?v=kk_x0wOvZYQ).  
+ 
 
 ### Set up 
 
@@ -27,6 +34,10 @@ Notebook for Graph Stethoscope experiments
 - ``gcn-moments-experiments``
 
 Notebook for validating graph moment learning theory
+
+- ``GCN-vs-FC-graph-moments`` 
+
+Notebook for tests comparing a fully-connected layer with GCN for learning graph moments
 
 ## Citation
 
